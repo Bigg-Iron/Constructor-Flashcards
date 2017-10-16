@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bigg-Iron/Hangman-Constructor/issues"
   },
-  "homepage": "https://github.com/Bigg-Iron/Hangman-Constructor#readme"
+  "homepage": "https://github.com/Bigg-Iron/Hangman-Constructor#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
 }
