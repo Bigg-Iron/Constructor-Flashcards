@@ -1,0 +1,19 @@
+{
+  "name": "hangman-constructor",
+  "version": "1.0.0",
+  "description": "Hangman CLI game.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigg-Iron/Hangman-Constructor.git"
+  },
+  "author": "LB.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigg-Iron/Hangman-Constructor/issues"
+  },
+  "homepage": "https://github.com/Bigg-Iron/Hangman-Constructor#readme"
+}
