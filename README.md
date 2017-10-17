@@ -1,2 +1,3 @@
-# Hangman-Constructor
-CLI Hangman Game.
+# Constructor Flashcards
+
+Flashcard game.
