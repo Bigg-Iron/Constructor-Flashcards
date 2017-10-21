@@ -1,3 +1,3 @@
 # Constructor Flashcards
 
-Flashcard game.
+Fill in the blank type game using Node and constructors.
